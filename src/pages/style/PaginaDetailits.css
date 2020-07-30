@@ -1,0 +1,25 @@
+.color_page{
+  background-image: url(https://i.pinimg.com/originals/6a/d0/61/6ad061662e8adc82a68c7578dbee0a04.jpg);
+  height: 9em;
+  background-position: bottom;
+ 
+}
+.color{
+  color: white;
+  margin: auto;
+  text-align: center;
+  padding-top: 70px;
+}
+@media only screen and (max-width : 480px){
+  .font_size{
+  position: relative;
+  bottom: 1em;
+  font-size: 10px;
+  }
+  button{
+   font-size: 8px;
+  }
+ .chico{
+   margin: 20px;
+ }
+}
